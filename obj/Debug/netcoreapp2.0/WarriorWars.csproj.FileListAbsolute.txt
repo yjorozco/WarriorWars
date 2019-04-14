@@ -1,0 +1,10 @@
+/var/www/html/WarriorWars/obj/Debug/netcoreapp2.0/WarriorWars.csproj.CoreCompileInputs.cache
+/var/www/html/WarriorWars/obj/Debug/netcoreapp2.0/WarriorWars.AssemblyInfoInputs.cache
+/var/www/html/WarriorWars/obj/Debug/netcoreapp2.0/WarriorWars.AssemblyInfo.cs
+/var/www/html/WarriorWars/bin/Debug/netcoreapp2.0/WarriorWars.deps.json
+/var/www/html/WarriorWars/bin/Debug/netcoreapp2.0/WarriorWars.runtimeconfig.json
+/var/www/html/WarriorWars/bin/Debug/netcoreapp2.0/WarriorWars.runtimeconfig.dev.json
+/var/www/html/WarriorWars/bin/Debug/netcoreapp2.0/WarriorWars.dll
+/var/www/html/WarriorWars/bin/Debug/netcoreapp2.0/WarriorWars.pdb
+/var/www/html/WarriorWars/obj/Debug/netcoreapp2.0/WarriorWars.dll
+/var/www/html/WarriorWars/obj/Debug/netcoreapp2.0/WarriorWars.pdb
